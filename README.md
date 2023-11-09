@@ -1,2 +1,2 @@
-# WIDS_VAE
+# WIDS VAE
 VAE Model
